@@ -1,0 +1,26 @@
+.login-form{
+  width: 100%;
+  max-width: 830px;
+  padding: 122px;
+  margin: auto;
+  height: 100%;
+  border: solid;
+  margin-top: 10px;
+  background-color: thistle;
+  
+ 
+}
+.titre{
+  justify-content: center;
+  padding-left: 200px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.for{
+  padding-top: 100px;
+  display: flex;
+}
+.continue-log{
+padding-top: 60px;
+
+}
